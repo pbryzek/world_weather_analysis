@@ -1,7 +1,7 @@
 *DS_Store
 
 # Adding config.py file.
-config.py 
+*config.py 
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
