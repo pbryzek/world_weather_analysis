@@ -13,11 +13,8 @@ Bootcamp Challenge 6: Module World Weather with Pandas
 
 ### Map Images Created
 - ![WeatherPy_vacation_map](analysis/WeatherPy_vacation_map.png)
-- [WeatherPy_travel_map][analysis/WeatherPy_travel_map.png]
-- [WeatherPy_travel_map_markers][analysis/WeatherPy_travel_map_markers.png]
-
- 	WeatherPy_travel_map.png 	update the challenge with the final run 	2 minutes ago
-	WeatherPy_travel_map_markers.png
+- ![WeatherPy_travel_map][analysis/WeatherPy_travel_map.png]
+- ![WeatherPy_travel_map_markers][analysis/WeatherPy_travel_map_markers.png]
     
 ### Challenge Description
 The goals for this challenge are for you to:
