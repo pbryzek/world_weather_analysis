@@ -12,10 +12,12 @@ Bootcamp Challenge 6: Module World Weather with Pandas
 - [WeatherPy_vacation](analysis/WeatherPy_vacation.csv)
 
 ### Map Images Created
-- ![WeatherPy_vacation_map](analysis/WeatherPy_vacation_map.png)
-- ![WeatherPy_travel_map][analysis/WeatherPy_travel_map.png]
-- ![WeatherPy_travel_map_markers][analysis/WeatherPy_travel_map_markers.png]
-    
+![WeatherPy_vacation_map](analysis/WeatherPy_vacation_map.png)
+<br/>
+![WeatherPy_travel_map][analysis/WeatherPy_travel_map.png]
+<br/>
+![WeatherPy_travel_map_markers][analysis/WeatherPy_travel_map_markers.png]
+<br/>
 ### Challenge Description
 The goals for this challenge are for you to:
     Use nested try-except blocks.
